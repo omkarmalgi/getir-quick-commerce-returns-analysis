@@ -1,5 +1,9 @@
 
 # Getir Quick Commerce Returns Analysis
+**Created by:** Omkar Malgi  
+**Portfolio:** Business Analyst Project  
+**Connect:** [LinkedIn](https://www.linkedin.com/in/omkarmalgi/) | [GitHub](https://github.com/omkarmalgi)
+
 
 A Business Analysis portfolio project exploring return patterns in quick-commerce orders using Excel, Power Query and Tableau.
 
